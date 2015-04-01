@@ -1,0 +1,1 @@
+Crop your matrix image into smaller pictures via a Java Application
